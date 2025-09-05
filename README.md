@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Jerome Rosales<br><br>I’m a 3rd year IT student at STI College Balayan.<br><br>I’m an aspiring developer who loves turning ideas into functional applications. From desktop software to web systems and even game development, I enjoy experimenting with different technologies and learning through hands-on projects.<br><br>
+Hi, I’m Jerome Rosales, a 3rd year IT student at STI College Balayan.<br><br>I’m an aspiring developer who loves turning ideas into functional applications. From desktop software to web systems and even game development, I enjoy experimenting with different technologies and learning through hands-on projects.<br><br>
 
 
 # 💻 Tech Stack:
